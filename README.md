@@ -12,10 +12,30 @@ Aplicación Angular 21 para gestionar un catálogo académico de cursos de exten
 - Consumo de API REST simulada
 - Interfaz con Tailwind CSS
 
+## Vistas Principales
+**Vista Inicio**
+
+<img src="./images/home.png" alt="vista inicio" width="1000">
+
+**Vista Cursos**
+
+<img src="./images/course-list.png" alt="vista inicio" width="1000">
+
+**Vista Curso Detalle**
+
+<img src="./images/course-detail.png" alt="vista inicio" width="1000">
+
+**Vista Nuevo Curso**
+
+<img src="./images/course-form.png" alt="vista inicio" width="1000">
+
+
 ## Requisitos
 
-- Node.js 18+
-- npm
+- Angular CLI       : 21.2.8
+- Angular           : 21.2.10
+- Node.js           : 22.21.0
+- Package Manager   : npm 11.13.0
 
 ## Instalación
 
